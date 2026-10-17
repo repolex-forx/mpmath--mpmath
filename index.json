@@ -1,0 +1,11 @@
+{
+  "org": "mpmath",
+  "repo": "mpmath",
+  "versions": [
+    {
+      "commit": "bbbeabbd7e82eab8cfd6948770ae51086ff47098",
+      "tag": "",
+      "parsed_at": "2026-10-17T23:05:34.413567+00:00"
+    }
+  ]
+}
