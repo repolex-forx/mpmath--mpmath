@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/mpmath/mpmath/commit/bbbeabbd7e82eab8cfd6948770ae51086ff47098",
       "git:hexsha": "bbbeabbd7e82eab8cfd6948770ae51086ff47098",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T23:05:34.412700+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mpmath/mpmath/commit/c4cb1a92d60795ad792bca7231e904bff1dc35ab",
