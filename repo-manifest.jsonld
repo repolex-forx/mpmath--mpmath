@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/mpmath/mpmath/commit/bbbeabbd7e82eab8cfd6948770ae51086ff47098",
       "git:hexsha": "bbbeabbd7e82eab8cfd6948770ae51086ff47098",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/mpmath/mpmath/commit/c4cb1a92d60795ad792bca7231e904bff1dc35ab",
